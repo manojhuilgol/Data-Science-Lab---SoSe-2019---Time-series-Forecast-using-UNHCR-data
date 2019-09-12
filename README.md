@@ -1,8 +1,9 @@
 # Time-Series-Analysis
 
-**IDE: Jupyter Notebook
-Language: Python 3 **
-
+```
+ IDE: Jupyter Notebook <br/>
+ Language: Python 3 
+```
 
 Different Time series analysis techniques are applied and the best model is selected for predicting the refugee count for the future upcoming days. Additionally, our forecasting model is also used to answer the following research questions.
 
