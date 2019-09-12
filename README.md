@@ -26,7 +26,7 @@ the counts of refugees starting from October 2015 to September
 to predict refugee inflow to a particular country.
 
 #### Visualization of our Data:
-![data_visualization](data_visualization.png)
+![](data_visualization.PNG)
 
 The following Time series models are used:
 1. AR model
