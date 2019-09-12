@@ -25,9 +25,11 @@ the counts of refugees starting from October 2015 to September
 2016 and same can be used to create a forecasting model in order
 to predict refugee inflow to a particular country.
 
-#### Visualization of our Data:
+#### Visualization of the Data:
 ![](data_visualization.PNG)
 
+
+#### Time series Models:
 The following Time series models are used:
 1. AR model
 2. ARMA model
