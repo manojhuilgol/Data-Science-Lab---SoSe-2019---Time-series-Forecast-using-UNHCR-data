@@ -27,7 +27,7 @@ the counts of refugees starting from October 2015 to September
 to predict refugee inflow to a particular country.
 
 ### Visualization of the Data:
-![](data_visualization.PNG)
+![](images/data_visualization.PNG)
 
 
 ### Time series Models:
