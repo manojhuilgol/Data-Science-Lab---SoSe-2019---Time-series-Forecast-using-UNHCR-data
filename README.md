@@ -1,8 +1,9 @@
 # Time-Series-Analysis
 
-IDE: Jupyter Notebook
-Language: Python 3
-
+```
+ IDE: Jupyter Notebook 
+ Language: Python 3 
+```
 
 Different Time series analysis techniques are applied and the best model is selected for predicting the refugee count for the future upcoming days. Additionally, our forecasting model is also used to answer the following research questions.
 
@@ -18,13 +19,18 @@ and Mainland Greece during a certain period of time then
 would the same correlation exists in the future also.
 
 
-## About the Data:
+### About the Data:
 The data set gives the information about the refugees arriving at various European countries such as Serbia, Italy, Hungary, Croatia,
 Slovenia, Austria, Greece, and the Greek Islands. Dataset has
 the counts of refugees starting from October 2015 to September
 2016 and same can be used to create a forecasting model in order
 to predict refugee inflow to a particular country.
 
+### Visualization of the Data:
+![](images/data_visualization.PNG)
+
+
+### Time series Models:
 The following Time series models are used:
 1. AR model
 2. ARMA model
