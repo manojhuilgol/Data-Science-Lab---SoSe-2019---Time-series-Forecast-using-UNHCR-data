@@ -30,14 +30,6 @@ to predict refugee inflow to a particular country.
 ![](images/data_visualization.PNG)
 
 
-### Time series Models:
-The following Time series models are used:
-1. AR model
-2. ARMA model
-3. ARIMA model
-4. SARIMA model
-5. Rolling Forecast Models (ARMA, ARIMA, SARIMA)
-
 
 
 
